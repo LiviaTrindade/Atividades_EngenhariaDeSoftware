@@ -1,0 +1,10 @@
+@startuml
+start
+:Pergunte o nome do primeiro sócio;
+:Pergunte o nome do segundo sócio;
+:Pergunte o nome do terceiro sócio;
+:pergunte a porcentagem do quanto cada um tem da empresa;
+:receber o valor total da empresa;
+:calcular o valor correspondente de cada sócio;
+stop
+@enduml
